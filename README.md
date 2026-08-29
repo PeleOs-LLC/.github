@@ -1,1 +1,38 @@
-# PeleOs Technologies LLC
+<h1 align="center">PeleOs Technologies LLC</h1>
+
+<div align="center">
+
+![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-181717?style=flat-square&logo=github)
+
+</div>
+
+---
+
+Organization profile and GitHub configuration for PeleOs Technologies LLC, a medical device developer and manufacturer specializing in orthopedic rehabilitation and sports medicine products.
+
+## Quick start
+
+Clone this repository to customize the organization profile and shared GitHub settings:
+
+```bash
+git clone https://github.com/PeleOs-LLC/.github.git
+```
+
+See [profile/README.md](profile/README.md) for the public organization homepage content.
+
+## Highlights
+
+- Orthopedic rehabilitation and sports medicine systems
+- Organization profile and GitHub defaults
+- Collaboration with healthcare professionals, researchers, and institutions
+
+## Documentation
+
+| Document | Purpose |
+| -------- | ------- |
+| [profile/README.md](profile/README.md) | Public organization profile |
+| [GitHub](https://github.com/PeleOs-LLC) | Organization repositories |
+
+## License
+
+© PeleOs Technologies LLC. All rights reserved.
