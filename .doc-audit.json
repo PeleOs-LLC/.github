@@ -2,7 +2,8 @@
   "skip": [
     "humans-missing",
     "agents-missing",
-    "readme-no-tier-links"
+    "readme-no-tier-links",
+    "readme-install"
   ],
-  "_comment": "Org .github dossier — HUMANS/AGENTS tiers do not apply."
+  "_comment": "Org .github dossier — no HUMANS/AGENTS tiers; Quick start links to profile README instead."
 }

@@ -12,13 +12,11 @@ Organization profile and GitHub configuration for PeleOs Technologies LLC, a med
 
 ## Quick start
 
-Clone this repository to customize the organization profile and shared GitHub settings:
-
 ```bash
 git clone https://github.com/PeleOs-LLC/.github.git
 ```
 
-See [profile/README.md](profile/README.md) for the public organization homepage content.
+Organization profile content lives in [profile/README.md](profile/README.md).
 
 ## Highlights
 
