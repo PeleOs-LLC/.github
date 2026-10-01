@@ -18,7 +18,6 @@ At PeleOs, we are not just talking about pushing the boundaries of medical techn
 - Research & Development documentation
 - Software tools and applications for medical devices
 - Collaboration projects with healthcare professionals and institutions
-- Open-source initiatives that foster community engagement and innovation.
 
 ## Get Involved
 
