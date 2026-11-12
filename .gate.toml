@@ -1,0 +1,2 @@
+[gates.doc-audit]
+run = "python3 \"$HOME/.claude/skills/doc-audit/scripts/doc-audit.py\" --root . --strict"
